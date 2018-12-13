@@ -1,0 +1,17 @@
+# Honours Project Meeting
+## 09 October, 2018
+
+Attendees: Anvesh, Dheeraj, Jawahar sir
+
+# Talking Points
+- Done with collection of videos (our dataset)
+- No work apart from that has been done, we're still not clear on the idea
+- Sir has suggested to start off with a simple problem since the simple problem will also have several issues that we're not thinking of.
+- Sir has suggested we work on stages, with stage 1 being simple SDE work.
+- Stage 1: Segment all videos naively in 30 seconds - 1 minute range, index based on metadata (such as teams involved, competition stage, etc). Each query should give search results
+- Stage 2: Use holistic features such as audio level, average colour, average sound, image features, sound features, video features(like motion features, color features), etc to segment/index
+- Stage 3 may be a novel problem
+
+
+# Actionable Points
+- Complete Stage 1 by next meeting

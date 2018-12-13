@@ -1,0 +1,12 @@
+# Honours Project Meeting
+## 23 October, 2018
+
+Attendees: Anvesh, Dheeraj, Jawahar sir
+
+# Talking Points
+- Done with building naive search engine
+- Need to move onto next set of features
+
+
+# Actionable Points
+- Look for more features

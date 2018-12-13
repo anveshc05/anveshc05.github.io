@@ -1,0 +1,19 @@
+# Honours Project Meeting
+## 13 November, 2018
+
+Attendees: Anvesh, Dheeraj, Jawahar sir
+
+# Talking Points
+- Tried video google, seems feasible
+- Pipeline: Apply NLP for search, features to split clips at backend
+- Maybe use BOW for search
+- Do event detection, perhaps around 10 of them (goalposts, goals, freekicks, player track, counter attack, fouls, cards, corners)
+- In winter break, going to update blog every week
+- Need more ADA space
+- Jawahar sir suggested that UI is too bleak. Need to first finish off easy stuff and then move onto CV.
+- Also, search results are not very informative. Specify titles clearly, then paginate the results.
+- Not just group stage, do for all matches
+
+# Actionable Points
+- Complete redesign of UI
+- Collect more features

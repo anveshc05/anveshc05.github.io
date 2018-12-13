@@ -1,0 +1,21 @@
+# Honours Project Meeting
+## 30 October, 2018
+
+Attendees: Anvesh, Dheeraj, Jawahar sir
+
+# Talking Points
+- Looked at color temperature and sound features
+- Confused on whether we should merge clips based on search or not
+- Confused on what to put on roadmap. What is feasible?
+- Haven't hosted the website yet since Varun didn't reply to mail
+- Don't convert features to clips, instead just store them
+- Collect mean, variance
+- Get gist features to classify goal posts, corners, etc
+- Example query: "People moving fast in penalty box"
+- two kinds of features - 1. color, motion sound, and 2. location of game
+- Look at video google see if we can use their implementation as a final goal for event recognition like fouls, goals
+- Final goal can be something like - mark a Messi and then using that find all Messi across all games
+
+# Actionable Points
+- Host website
+- Collect more features

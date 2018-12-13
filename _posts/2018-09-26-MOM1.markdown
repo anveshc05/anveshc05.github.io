@@ -1,0 +1,18 @@
+# Honours Project Meeting
+## 26 September, 2018
+
+Attendees: Anvesh, Dheeraj, Jawahar sir
+
+# Talking Points
+- Presented idea to work on something related to broadcast football matches
+- Probably a general analysis of a football match, along the lines of what Anurag Ghosh did for badminton
+- Previous work on football include Rahul Anand Sharma’s 2 papers in conjunction with Vineet Gandhi sir and Jawahar sir
+- Jawahar sir told us about how a professor at Yale proposed how the head movement of a player determines how good he is
+- 2 ways to approach this problem
+      - Convert all data into numbers
+      - Get data and set goals based on that
+- Sir proposed to build a Youtube like application for R&D showcase that has a good search engine to look for things like all ‘exciting’ moments involving a particular team.
+
+# Actionable Points
+- Collect videos
+- Build our own YouTube app
