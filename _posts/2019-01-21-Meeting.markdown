@@ -1,0 +1,10 @@
+# Progress
+* A basic version of front-end deployed with search functionality.
+* Some feature extraction techniques tried including **sound intensity** , **colour**. 
+* **Video google** tried for player recognition and found to be compute intensive.
+
+# Plan for next week
+* Started working on a new website with different frameworks for making the work easier.
+* Host the website while integrating the work done until now.
+* Clean dataset to remove pre-match/ mid-match shows.
+* Use NLP tools to improve search accuracy.
