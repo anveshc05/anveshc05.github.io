@@ -1,0 +1,13 @@
+# Progress
+* Some feature extraction techniques tried including **sound intensity** , **colour**. 
+* Worked on goal detection and acheived decent results.
+* **Video google** tried for player recognition and found to be compute intensive.
+* Website completely restructured and redeployed.
+
+# Plan for next week
+* Integrate all the work on the new website so that it can be easily presented.
+* Improve the goal detection by adding multiple features to improve accuracy.
+* Adding new features like foul detection. 
+* Isolating moments in which crowd and celebrations are shown.
+* Clean dataset to remove pre-match/ mid-match shows.
+* Use NLP tools to improve search accuracy.
