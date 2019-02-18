@@ -1,0 +1,12 @@
+# Progress
+* Completely restructured website redeployed on preon server. 
+* Worked on goal detection. Improvement of detection by using multiple features for detecting.
+* **Video google** tried for player recognition and found to be compute intensive.
+* Search structure re-implemented for website.
+* Preparation of R&D poster.
+
+# Plan for next week
+* Prepare a demo video for R&D showcase.
+* Adding new features like foul detection.
+* Use NLP tools to improve search accuracy.
+* Isolating moments in which crowd and celebrations are shown.
