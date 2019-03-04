@@ -1,0 +1,14 @@
+# Progress
+* Worked on a roadmap for future work as discussed in the previous meeting.
+* Completely restructured website redeployed on preon server. 
+* Worked on goal detection. Improvement of detection by using multiple features for detecting.
+* Search structure re-implemented for website.
+* Worked on player detection. Explored Video Google based approach(player recognition using T-shirt)  
+ and ssd based approach. General player detection(using person recognition) found feasible
+* **Site-link** : [link](http://preon.iiit.ac.in:8080/)
+
+# Plan for next week
+* Complete work on player detection. Deploy demo videos for this purpose.
+* Adding new features like foul detection.
+* Use NLP tools to improve search accuracy.
+* Isolating moments in which crowd and celebrations are shown(for dataset filtering).
