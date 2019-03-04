@@ -12,3 +12,4 @@
 * Adding new features like foul detection.
 * Use NLP tools to improve search accuracy.
 * Isolating moments in which crowd and celebrations are shown(for dataset filtering).
+* Pre-processing dataset
