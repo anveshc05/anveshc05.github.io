@@ -1,0 +1,12 @@
+# Progress
+* Worked on goal detection. Improvement of detection by using multiple features for detecting.
+* Worked on a roadmap for future work as discussed in the previous meeting.
+* Worked on player detection. Explored Video Google based approach(player recognition using T-shirt) and ssd based approach. General player detection(using person recognition) found feasible. 
+* Search structure re-implemented for website.
+* **Annotated the data** so that it can be used to derive features using learning techniques.
+
+# Plan for next week
+* Work on foul detection.
+* Deploy more demo videos based on player detection.
+* Use NLP tools to improve search accuracy.
+* Pre-processing dataset
