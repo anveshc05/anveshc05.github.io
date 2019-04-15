@@ -1,0 +1,12 @@
+# Progress
+* Annotated the data so that it can be used to derive features using learning techniques.
+* Worked on the approach presented in the [paper](https://link.springer.com/article/10.1007/s11760-016-0916-3) by Rahul Anand Sharma.
+* Worked on goal detection. Improvement of detection by using multiple features for detecting.
+* Some problem in the working. Results not satisfactory.
+* Worked on player detection. Explored Video Google based approach(player recognition using T-shirt) and ssd based approach. General player detection(using person recognition) found feasible.
+
+# Plan for next week
+* Explore other techniques for event detection.
+* Try improving the results based on the same approach.
+* Deploy more demo videos based on results.
+* Use NLP tools to improve search accuracy.
